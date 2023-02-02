@@ -1,0 +1,11 @@
+.navbar-menu {
+	font-family: 'Roboto';
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.navbar-item.has-dropdown.is-hoverable{
+	background-color: #EEEEEE;
+}
+
+
